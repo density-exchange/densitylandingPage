@@ -58,7 +58,7 @@ export default function Header({
            <a href="#" style={{ textDecoration:"none"}}>
             <span className="support menu-link">Support</span>
             </a>
-           <a href="#blog" style={{ textDecoration:"none", color: "black"}}>
+           <a href="https://blogs.density.exchange/" target={"_blank"} style={{ textDecoration:"none", color: "black"}}>
             <span href="#blog" className="blog menu-link">Blog</span>
             </a>
           </Grid>
